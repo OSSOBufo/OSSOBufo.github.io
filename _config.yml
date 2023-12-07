@@ -1,14 +1,14 @@
 # Site settings
 title: OSSOBufo
-email: your-email@domain.com
+
 description: >
   Overarching Study into the Survival Of BUFO bufo
 lang: en-US
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://E-Blomme.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/E-Blomme/E-Blomme.github.io
-git_edit_address: https://github.com/E-Blomme/E-Blomme.github.io
+url: https://OSSOBufo.github.io/jekyll-doc-theme # the base hostname & protocol for your site
+git_address: https://github.com/OSSOBufo/ossobufo.github.io
+git_edit_address: https://github.com/OSSOBufo/ossobufo.github.io
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap

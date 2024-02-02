@@ -12,14 +12,24 @@ redirect_from: /docs/researchers.html
 <div class="row">
         <div class="col-sm-4">
         <img src="{{site.baseurl}}/assets/img/frank.JPG" alt="" class="img-responsive" width="360" height="350.233">
-            <h4>Professor Frank Pasmans</h4>
         </div>
         <div class="col-sm-4">
+        <br/>
         <img src="{{site.baseurl}}/assets/img/An.jpg" alt="" class="img-responsive" width="360" height="350.233">
-            <h4>Professor An Martel</h4>
         </div>
         <div class="col-sm-4">
             <img src="{{site.baseurl}}/assets/img/me.JPG" alt="" class="img-responsive" width="360" height="350.233">
+        </div>
+    </div>
+
+<div class="row">
+        <div class="col-sm-4">
+            <h4>Professor Frank Pasmans</h4>
+        </div>
+        <div class="col-sm-4">
+            <h4>Professor An Martel</h4>
+        </div>
+        <div class="col-sm-4">
             <h4>PhD student Ellen Blomme</h4>
         </div>
     </div>
@@ -29,6 +39,7 @@ redirect_from: /docs/researchers.html
         <img src="{{site.baseurl}}/assets/img/Andrea.jpg" alt="" class="img-responsive" width="360" height="350.233">
             <h4>PhD student Andrea Barbi</h4>
     </div>
+</div>
 
 <div style="display: flex; align-items: center;">
     <a href="https://www.ecology.ugent.be/terec/"><img alt="terec" src="{{site.baseurl}}/assets/img/tereclogo.png" width="67" height="50" hspace="30"></a>

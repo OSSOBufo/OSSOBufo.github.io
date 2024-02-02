@@ -15,13 +15,19 @@ redirect_from: /docs/researchers.html
             <h4>Professor Frank Pasmans</h4>
         </div>
         <div class="col-sm-4">
-        <h1 class="text-center"><i class="fa fa-user" aria-hidden="true"></i></h1>
+        <img src="{{site.baseurl}}/assets/img/An.jpg" alt="" class="img-responsive" width="360" height="350.233">
             <h4>Professor An Martel</h4>
         </div>
         <div class="col-sm-4">
             <img src="{{site.baseurl}}/assets/img/me.JPG" alt="" class="img-responsive" width="360" height="350.233">
             <h4>PhD student Ellen Blomme</h4>
         </div>
+    </div>
+
+<div class="row">
+        <div class="col-sm-4">
+        <img src="{{site.baseurl}}/assets/img/Andrea.jpg" alt="" class="img-responsive" width="360" height="350.233">
+            <h4>PhD student Andrea Barbi</h4>
     </div>
 
 <div style="display: flex; align-items: center;">
@@ -47,7 +53,7 @@ redirect_from: /docs/researchers.html
 
 <div class="row">
         <div class="col-sm-6">
-        <h1 class="text-center"><i class="fa fa-user" aria-hidden="true"></i></h1>
+        <img src="{{site.baseurl}}/assets/img/Siska.jpg" alt="" class="img-responsive" width="360" height="350.233">
             <h4>Professor Siska Croubels</h4>
         </div>
         <div class="col-sm-6">

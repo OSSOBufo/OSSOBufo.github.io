@@ -36,7 +36,6 @@ redirect_from: /docs/researchers.html
     </div>
 
 <br/>
-<br/>
 
 <div class="row">
         <div class="col-sm-4">

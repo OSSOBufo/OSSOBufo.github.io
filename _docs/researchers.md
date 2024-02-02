@@ -15,6 +15,7 @@ redirect_from: /docs/researchers.html
         </div>
         <div class="col-sm-4">
         <br/>
+        <br/>
         <img src="{{site.baseurl}}/assets/img/An.jpg" alt="" class="img-responsive" width="360" height="350.233">
         </div>
         <div class="col-sm-4">
@@ -33,6 +34,9 @@ redirect_from: /docs/researchers.html
             <h4>PhD student Ellen Blomme</h4>
         </div>
     </div>
+
+<br/>
+<br/>
 
 <div class="row">
         <div class="col-sm-4">

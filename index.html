@@ -104,7 +104,7 @@ layout: default
 <hr>
     <div class="container">
         <h2 class="header-light regular-pad">News:
-         <div class="col-md-12">
+        <div class="col-md-12">
             <h4><b>Fieldwork season</b></h4>
             <p class="lead"> During <b>toad patrols</b>, we measured the length and weight of 525 toads. These measurements should provide us insights
                 whether populations in decline are characterized by a general individual loss of condition or fitness. We collected data at 10 locations with
@@ -114,13 +114,16 @@ layout: default
                 their exposure to pesticides, heavy metals, fungal toxins present on agricultural crops and pharmaceuticals used in farm animals, and
                 possible diseases and the stress that the animals experience.</p>
         </div>   
-        <div  class="half" style="display:flex">
-                <img src="{{ "/assets/img/veldwerk.jpg" | relative_url }}" alt="veldwerk" style="width:600px">
-                <img src="{{ "/assets/img/dead_toads.JPG" | relative_url }}" alt="dead_toads" style="width:400px">
-        </div>
+        <div class="row">
+            <div class="col-sm-8" align="center">
+                <img src="{{ "/assets/img/veldwerk.jpg" | relative_url }}" alt="veldwerk" height="400">
+            </div>
+            <div class="col-sm-4">
+                <img src="{{ "/assets/img/dead_toads.JPG" | relative_url }}" alt="dead_toads" height="400">
+            </div>
+        </div> 
         <br/>
         <div class="col-md-12">
-            <br/>
             <p class="lead"> We also <b>characterized</b> the <b>ponds</b> within the 10 stable and declining populations. Between April and June
                 the temperature, pH, salinity, turbidity, depth and oxygen in the pond were measured. We are currently determining the presence of
                 pesticides, heavy metals, mold toxins and pharmaceuticals. In addition, we also took eDNA samples (DNA present in the water),

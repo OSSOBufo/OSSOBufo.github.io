@@ -72,6 +72,7 @@ redirect_from: /docs/researchers.html
             <h4>Postdoc Femke Batsleer</h4>
         </div>
         <div class="col-sm-4">
+            <img src="{{site.baseurl}}/assets/img/Henri.jpg" alt="" width="360" height="350.233">
             <h4>PhD student Henri Rommel</h4>
         </div>
     </div>
